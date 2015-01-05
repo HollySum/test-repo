@@ -1,4 +1,4 @@
 test-repo
 =========
 
-A test repository
+A test repository for Holly
